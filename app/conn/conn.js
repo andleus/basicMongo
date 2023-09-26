@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb';
 
-const url = 'mongodb://localhost:27018/miodb';
+const url = 'mongodb://localhost:27018/miodb    ';
 
 export async function conn() {
     try {
